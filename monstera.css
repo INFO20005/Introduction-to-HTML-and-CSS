@@ -61,11 +61,11 @@ p{
   font-weight: 300;
 }
 
-.cafe-photo{
+#cafe-photo{
   width: 960px;
 }
 
-.banner{
+#banner{
   width: 100%;
   min-width: 800px;
 }
